@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tonynnamdi
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis and cryptocurrency
 - 🌱 I’m currently learning data analysis toolbox in coursera
 - 💞️ I’m looking to collaborate with anyone with interest in data analysis using R and python programming language.
 - 📫 How to reach me: dontonynnamdi52@gmail.com
